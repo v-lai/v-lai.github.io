@@ -1,0 +1,13 @@
+body {
+  background-color: #E0F2F1;
+}
+
+.drawer i {
+  color: #00BFA5;
+  text-decoration: none;
+}
+
+.drawer i:hover {
+  color: #004D40;
+  text-decoration: none;
+}
